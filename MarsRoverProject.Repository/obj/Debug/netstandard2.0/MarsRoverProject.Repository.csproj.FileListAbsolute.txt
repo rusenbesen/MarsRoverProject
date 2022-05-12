@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\MarsRoverProject\MarsRoverProject.Repository\bin\Debug\netstandard2.0\MarsRoverProject.Repository.deps.json
+C:\Users\user\source\repos\MarsRoverProject\MarsRoverProject.Repository\bin\Debug\netstandard2.0\MarsRoverProject.Repository.dll
+C:\Users\user\source\repos\MarsRoverProject\MarsRoverProject.Repository\bin\Debug\netstandard2.0\MarsRoverProject.Repository.pdb
+C:\Users\user\source\repos\MarsRoverProject\MarsRoverProject.Repository\bin\Debug\netstandard2.0\MarsRoverProject.Data.dll
+C:\Users\user\source\repos\MarsRoverProject\MarsRoverProject.Repository\bin\Debug\netstandard2.0\MarsRoverProject.Data.pdb
+C:\Users\user\source\repos\MarsRoverProject\MarsRoverProject.Repository\obj\Debug\netstandard2.0\MarsRoverProject.Repository.csprojAssemblyReference.cache
+C:\Users\user\source\repos\MarsRoverProject\MarsRoverProject.Repository\obj\Debug\netstandard2.0\MarsRoverProject.Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MarsRoverProject\MarsRoverProject.Repository\obj\Debug\netstandard2.0\MarsRoverProject.Repository.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MarsRoverProject\MarsRoverProject.Repository\obj\Debug\netstandard2.0\MarsRoverProject.Repository.AssemblyInfo.cs
+C:\Users\user\source\repos\MarsRoverProject\MarsRoverProject.Repository\obj\Debug\netstandard2.0\MarsRoverProject.Repository.csproj.CopyComplete
+C:\Users\user\source\repos\MarsRoverProject\MarsRoverProject.Repository\obj\Debug\netstandard2.0\MarsRoverProject.Repository.dll
+C:\Users\user\source\repos\MarsRoverProject\MarsRoverProject.Repository\obj\Debug\netstandard2.0\MarsRoverProject.Repository.pdb
